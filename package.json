@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "atomic-algolia": "^0.3.19"
+  },
+  "name": "ouailderghal.xyz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "algolia": "atomic-algolia"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
